@@ -73,5 +73,6 @@ Hope this was helpful to get you started?
 ___
 
 [^note]:
-[`Samuel Omolaja`](https://samuelomolaja.com.ng)  ;)  (c) 2023
-![Samuel Omolaja](https://drive.google.com/file/d/111McQfmITE4-fCej3oYknf9J-HyjIgsL/view?usp=drivesdk)
+[`Samuel Omolaja`](https://samuelomolaja.com.ng)  :wink  (c) 2023
+
+![samuel omolaja](https://drive.google.com/file/d/111McQfmITE4-fCej3oYknf9J-HyjIgsL/view?usp=drivesdk)
