@@ -26,25 +26,35 @@ _Start the server with command [`shift + f`] (if you are using intellij idea) _
 
 ## Available endpoints
 * localhost:8080/api/getAllPost
+
+-Get Method
 * localhost:8080/api/getOnePost/{id}
+  
+-Post Method
 ```
 query parameters
 5
 example: localhost:8080/api/getOnePost/5
 ```
 * localhost:8080/api/createPost
+  
+-Post Method
 ```
 Body parameters
 - title
 - body
 ```
 * localhost:8080/api/updatePost/{id}
+  
+-Put Method
   ```
   Body parameters
   - title
   - body
   ```
-* localhost:8080/api/deletePost/{id}
+* localhost:8080/api/deletePost/{id}  
+
+-Delete Method
     ````
    query parameters
    5
