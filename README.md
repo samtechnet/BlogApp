@@ -53,12 +53,15 @@ Body parameters
 
 ___
 
-@github/Abelinho
-@github/adekzs
-@github/UyiEke
+[@github/Abelinho](https://github.com/Abelinho),
+[@github/adekzs](https://github.com/adekzs),
+[@github/UyiEke](https://github.com/UyiEke),
 WHat do you think about these project?
 
 Hope this was helpful to get you started?
 
+___
 
-[`Samuel Omolaja`] (c) 2023
+[^note]:
+[`Samuel Omolaja`](https://samuelomolaja.com.ng)  ;)  (c) 2023
+![Samuel Omolaja](https://drive.google.com/file/d/111McQfmITE4-fCej3oYknf9J-HyjIgsL/view?usp=drivesdk)
